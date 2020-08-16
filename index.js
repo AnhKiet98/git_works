@@ -4,3 +4,4 @@ var Feture1 = function () {
 var Feture2 = function () {
     console.log('done f2')
 }
+Console.log('done All');
