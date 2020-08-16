@@ -1,3 +1,3 @@
-var Feture2 = function () {
-    console.log('done F2')
+var f_initBranch = function () {
+    console.log('master')
 }
